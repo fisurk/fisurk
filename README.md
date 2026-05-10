@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Raymond 👋
 
-<!--
-**fisurk/fisurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
+⚛️ React | MongoDB | WordPress
+🚀 Building modern web applications and modern user experiences
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me**
+  10+ years of development experience
+  Passionate about frontend and backend systems
+  Currently improving my portfolio and public projects
+**Tech Stack**
+  React
+  MongoDB
+  JavaScript
+  Node.js
+  WordPress
+**Projects**
+  Portfolio Website
+  Dashboard Applications
+  Full-Stack Platforms
+**Contact**
+  Portfolio: https://yourportfolio.vercel.app
+  GitHub: https://github.com/yourusername
