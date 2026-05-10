@@ -1,23 +1,40 @@
-Hi, I'm Raymond 👋
+# fisurk / portfolio
 
-💻 Full-Stack Developer
-⚛️ React | MongoDB | WordPress
-🚀 Building modern web applications and modern user experiences
+Hi, I’m **Raymond**.
 
-**About Me**
-  10+ years of development experience
-  Passionate about frontend and backend systems
-  Currently improving my portfolio and public projects
-**Tech Stack**
-  React
-  MongoDB
-  JavaScript
-  Node.js
-  WordPress
-**Projects**
-  Portfolio Website
-  Dashboard Applications
-  Full-Stack Platforms
-**Contact**
-  Portfolio: https://yourportfolio.vercel.app
-  GitHub: https://github.com/yourusername
+**Full-stack developer** with **10+ years of experience** building modern web applications: interfaces, APIs, content-driven sites, and e-commerce.
+
+## Skills
+
+| Area | Technologies |
+|------|----------------|
+| Frontend | **React** |
+| Backend / runtime | **Node.js**, **Python** |
+| CMS | **WordPress** |
+| E-commerce | **WooCommerce**, **Shopify** |
+
+## This repository
+
+- **Live-style portfolio UI:** React + Vite + TypeScript + Tailwind (see `src/`).
+- **Notes & copy:** `MyPortfolio/README.md`
+
+### Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+### Build
+
+```bash
+npm run build
+```
+
+## Links
+
+- **Repository:** [github.com/fisurk/fisurk](https://github.com/fisurk/fisurk)
+
+---
+
+*Portfolio URL: add your deployed link here when ready (e.g. Vercel / Netlify).*
