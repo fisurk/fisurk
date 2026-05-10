@@ -1,40 +1,48 @@
-# fisurk / portfolio
+# Advent of Code Solutions
 
-Hi, I’m **Raymond**.
+This repository contains my solutions to [Advent of Code](https://adventofcode.com/) challenges, organized by year with each year implemented in a different programming language.
 
-**Full-stack developer** with **10+ years of experience** building modern web applications: interfaces, APIs, content-driven sites, and e-commerce.
+## Repository Structure
 
-## Skills
+Each year has its own folder with solutions implemented in a specific programming language:
 
-| Area | Technologies |
-|------|----------------|
-| Frontend | **React** |
-| Backend / runtime | **Node.js**, **Python** |
-| CMS | **WordPress** |
-| E-commerce | **WooCommerce**, **Shopify** |
-
-## This repository
-
-- **Live-style portfolio UI:** React + Vite + TypeScript + Tailwind (see `src/`).
-- **Notes & copy:** `MyPortfolio/README.md`
-
-### Run locally
-
-```bash
-npm install
-npm run dev
+```
+adventofcode/
+├── 2025/          # Rust
+│   ├── day1/
+│   ├── day2/
+│   └── ...
+└── README.md
 ```
 
-### Build
+## Languages by Year
 
-```bash
-npm run build
-```
+| Year | Language | Status |
+|------|----------|--------|
+| 2025 | Rust     | Completed |
 
-## Links
+## Running Solutions
 
-- **Repository:** [github.com/fisurk/fisurk](https://github.com/fisurk/fisurk)
+Each year's folder contains specific instructions for running solutions in that language. See the README in each year's directory for details.
+
+## About Advent of Code
+
+[Advent of Code](https://adventofcode.com/) is an annual set of Christmas-themed programming challenges that can be solved in any programming language. Each day from December 1st to December 25th, a new two-part puzzle is released.
+
+## Progress
+
+- **2025**: Days completed: Check individual day folders
+
+## Notes
+
+- Each day's folder contains the puzzle input (`input.txt`) and solution code
+- Solutions prioritize readability and learning over performance
+- Each year explores a different programming language to broaden skills
+
+## License
+
+This project is open source and available for educational purposes.
 
 ---
 
-*Portfolio URL: add your deployed link here when ready (e.g. Vercel / Netlify).*
+⭐ Happy Coding! ⭐
