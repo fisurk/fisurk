@@ -1,232 +1,259 @@
+<!-- =========================================================
+README.md — Alice Tan | Full-Stack Alchemist
+Luxury GitHub Profile README
+Modern • Elegant • Animated • GitHub Safe
+========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:0f172a,60:2563eb,100:38bdf8&text=AI%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:111827,50:1e293b,75:3b82f6,100:c084fc&text=Alice%20Tan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20Software%20Architect%20✦%2010%2B%20Years%20Experience&descAlignY=58&descAlign=50" width="100%" />
 
-# 🤖 Senior AI Full Stack Developer
+</div>
 
-### Building Intelligent Systems • Modern SaaS • 3D Web Experiences
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Expert;3D+UI+Designer+%7C+Modern+SaaS+Architect;Building+Scalable+AI+Applications;Clean+Code+%7C+Modern+Design+%7C+High+Performance" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Developer+from+Singapore;React+%7C+Next.js+%7C+Node.js+Expert;Building+Elegant+Scalable+Systems;Modern+UI%2FUX+and+High-Performance+Architecture;Transforming+Ideas+into+Digital+Experiences" />
 
 </div>
 
 ---
 
-# 🌌 AI Developer Workspace
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1800&auto=format&fit=crop" 
-    width="100%"
-  />
-</p>
+<img src="https://img.shields.io/badge/Location-Singapore-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Experience-10%2B%20Years-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NUS-Graduate-1e293b?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-FullStack%20Development-c084fc?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
----
-
-# 🧠 3D AI Developer
-
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212744275-2f3b4c9f-5e89-4f6d-b0d0-9d54fba5e3a5.gif" 
-    width="100%"
-  />
-</p>
+</div>
 
 ---
-
-# 🚀 About Me
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+# 🪶 *Alice Tan — Full-Stack Alchemist*
 
-## ⚡ Frontend
+<img src="https://api.dicebear.com/9.x/avataaars/svg?seed=AliceTanMagic&backgroundColor=1e293b&hairColor=2c1e0f&skinColor=f8d25c&accessories=wayfarers&clothing=warmHoodie&clothingColor=3b82f6&eyes=happy&eyebrows=raised&mouth=smile&top=shortHair&facialHair=blank" width="180" />
 
-```yaml
-Frameworks:
-  - React
-  - Next.js
-  - Vue.js
-  - Nuxt.js
+</div>
 
-Design:
-  - Tailwind CSS
-  - Material UI
-  - Framer Motion
-  - Three.js
+---
 
-Special:
-  - 3D Interfaces
-  - AI UI Design
-  - Responsive Layout
+# ✨ About Me
+
+> “Every great system starts with a single line of code — and a feather of inspiration.”
+
+My name is **Alice Tan**, and I am a passionate **Full-Stack Developer** based in **Singapore**.  
+I graduated from the **National University of Singapore**, where I built a strong foundation in modern software engineering and advanced web technologies.
+
+Programming has always been a natural part of my life because my father is also a programmer, and his passion for technology inspired me from an early age.  
+My mother works as a teacher, and from her I learned discipline, communication, patience, and the importance of continuous learning.
+
+For more than **10 years**, I have been developing scalable, responsive, and user-focused applications across multiple industries and platforms.
+
+I specialize in creating modern full-stack solutions that combine:
+
+- ⚡ High Performance
+- 🎨 Elegant UI/UX
+- 🪶 Clean Architecture
+- 🔐 Secure Backend Systems
+- 📱 Responsive Design
+- 🚀 Scalable Infrastructure
+
+---
+
+# 🌌 Philosophy
+
+<div align="center">
+
+```text
+Code with feathers.
+Build with soul.
+Create with purpose.
 ```
 
-</td>
+</div>
 
-<td width="50%">
+I believe software should not only function beautifully, but also create meaningful experiences for users and businesses.
 
-## ⚙️ Backend
+My development philosophy focuses on:
 
-```yaml
-Technologies:
-  - Node.js
-  - Laravel
-  - Django
-  - FastAPI
+- Writing clean and maintainable code
+- Understanding real client requirements
+- Building scalable long-term solutions
+- Combining creativity with engineering precision
+- Delivering products with real business value
 
-Database:
-  - MongoDB
-  - PostgreSQL
-  - MySQL
+---
 
-Architecture:
-  - SaaS Systems
-  - AI Automation
-  - Cloud Deployment
-```
+# 🪶 Tech Stack
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,html,css,python,java,php,mongodb,postgres,mysql,redis,firebase,docker,git,github,figma,vscode" />
 
 </div>
 
 ---
 
-# 🖥️ AI Powered Development Setup
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    width="850"
-  />
-</p>
+# ⚡ Frontend Expertise
 
 <div align="center">
 
-### 💻 Designing • Coding • Building • Scaling
+| UI Engineering | UX Optimization | Responsive Design | Modern Frameworks |
+|:--:|:--:|:--:|:--:|
+| 🎨 | ⚡ | 📱 | 🚀 |
+
+</div>
+
+### ✨ Frontend Highlights
+
+- React & Next.js Architecture
+- Tailwind CSS & Modern UI Systems
+- Accessibility & WCAG Standards
+- Pixel-Perfect Responsive Interfaces
+- Interactive Animation Systems
+- Mobile-First Development
+- Framer Motion & Smooth UX
+
+---
+
+# ⚙️ Backend Engineering
+
+<div align="center">
+
+| APIs | Authentication | Databases | Scalability |
+|:--:|:--:|:--:|:--:|
+| 🔗 | 🔐 | 🗄️ | ☁️ |
+
+</div>
+
+### 🪶 Backend Highlights
+
+- REST & GraphQL APIs
+- JWT / OAuth Authentication
+- MongoDB & PostgreSQL Architecture
+- High-Performance Query Optimization
+- Secure Server-Side Systems
+- Cloud Deployment & Docker
+- Scalable SaaS Infrastructure
+
+---
+
+# 🌟 What I Build
+
+<div align="center">
+
+| SaaS Platforms | eCommerce Systems | Dashboards | Business Tools |
+|:--:|:--:|:--:|:--:|
+| 📦 | 🛒 | 📊 | 🛠️ |
+
+</div>
+
+I have experience building:
+
+- SaaS platforms
+- eCommerce ecosystems
+- Enterprise dashboards
+- Admin systems
+- Business automation tools
+- Responsive web applications
+- API infrastructures
+- Scalable backend services
+
+for both **startups** and **growing companies**.
+
+---
+
+# 🔄 Continuous Learning
+
+Technology evolves every day, and I continuously improve my skills by learning new frameworks, tools, and development trends.
+
+### 📚 Currently Exploring
+
+- Next.js App Router
+- AI-assisted development workflows
+- Advanced TypeScript architecture
+- Cloud-native systems
+- Performance optimization
+- Modern animation systems
+
+---
+
+# 🏆 Professional Strengths
+
+<div align="center">
+
+| Clean Code | Creativity | Scalability | Professionalism |
+|:--:|:--:|:--:|:--:|
+| 🪶 | 🎨 | 🚀 | 💎 |
+
+</div>
+
+I enjoy solving complex technical challenges and transforming creative ideas into reliable and maintainable digital products.
+
+My experience across multiple frameworks and platforms allows me to quickly understand project requirements and contribute efficiently to development teams.
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-# ⚡ Tech Universe
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind,threejs,typescript,javascript" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,aws,supabase,firebase" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,figma,git,github,vscode,linux" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
-# 🤖 AI Development Philosophy
-
-```javascript
-const developer = {
-  
-  mindset: "Build futuristic applications",
-
-  frontend: [
-    "React",
-    "Next.js",
-    "Three.js",
-    "Modern Animation"
-  ],
-
-  backend: [
-    "Node.js",
-    "Django",
-    "Laravel",
-    "Scalable APIs"
-  ],
-
-  ai: [
-    "AI Automation",
-    "LLM Integration",
-    "AI SaaS Platforms",
-    "Smart Systems"
-  ],
-
-  design: [
-    "3D Interfaces",
-    "Minimal UI",
-    "Modern Motion",
-    "Responsive UX"
-  ],
-
-  mission: "Create intelligent digital experiences"
-};
-```
-
----
-
-# 📊 GitHub Analytics
+# 🤝 Connect With Me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:alice.tan@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com">
-  <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://vercel.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:38bdf8,50:2563eb,100:020617&section=footer" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,25:111827,50:1e293b,75:3b82f6,100:c084fc" width="100%" />
+
+### ✨ “Elegance in every line of code.” ✨
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=60A5FA" />
+
+</div>
