@@ -1,96 +1,232 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:0f172a,60:2563eb,100:38bdf8&text=AI%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn" width="100%" />
+
+# 🤖 Senior AI Full Stack Developer
+
+### Building Intelligent Systems • Modern SaaS • 3D Web Experiences
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Expert;3D+UI+Designer+%7C+Modern+SaaS+Architect;Building+Scalable+AI+Applications;Clean+Code+%7C+Modern+Design+%7C+High+Performance" />
+
+</div>
+
+---
+
+# 🌌 AI Developer Workspace
+
+<p align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1800&auto=format&fit=crop" 
+    width="100%"
+  />
+</p>
+
+---
+
+# 🧠 3D AI Developer
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212744275-2f3b4c9f-5e89-4f6d-b0d0-9d54fba5e3a5.gif" 
+    width="100%"
+  />
+</p>
+
+---
+
 # 🚀 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<div align="center">
 
-```python
-class FullStackDeveloper:
+<table>
+<tr>
+<td width="50%">
 
-    def __init__(self):
-        self.name = "Senior Full Stack Developer"
-        self.role = "AI Engineer & Software Architect"
-        self.language_spoken = ["Python", "JavaScript", "TypeScript"]
+## ⚡ Frontend
 
-    def skills(self):
-        return {
-            "frontend": [
-                "React",
-                "Next.js",
-                "Vue.js",
-                "Tailwind CSS",
-                "Three.js"
-            ],
+```yaml
+Frameworks:
+  - React
+  - Next.js
+  - Vue.js
+  - Nuxt.js
 
-            "backend": [
-                "Python",
-                "Django",
-                "FastAPI",
-                "Node.js",
-                "Laravel"
-            ],
+Design:
+  - Tailwind CSS
+  - Material UI
+  - Framer Motion
+  - Three.js
 
-            "database": [
-                "PostgreSQL",
-                "MongoDB",
-                "MySQL",
-                "Redis"
-            ],
+Special:
+  - 3D Interfaces
+  - AI UI Design
+  - Responsive Layout
+```
 
-            "ai_engineering": [
-                "AI Automation",
-                "LLM Integration",
-                "Prompt Engineering",
-                "AI SaaS Systems",
-                "Machine Learning"
-            ],
+</td>
 
-            "cloud_devops": [
-                "Docker",
-                "AWS",
-                "Vercel",
-                "Firebase"
-            ]
-        }
+<td width="50%">
 
-    def current_focus(self):
-        return [
-            "Building AI-powered applications",
-            "Creating scalable SaaS platforms",
-            "Designing modern 3D UI systems",
-            "Developing high-performance APIs",
-            "Learning advanced AI technologies"
-        ]
+## ⚙️ Backend
 
-    def philosophy(self):
-        return (
-            "Clean code, scalable architecture, "
-            "modern design, and intelligent systems."
-        )
+```yaml
+Technologies:
+  - Node.js
+  - Laravel
+  - Django
+  - FastAPI
 
-developer = FullStackDeveloper()
+Database:
+  - MongoDB
+  - PostgreSQL
+  - MySQL
 
-print(developer.philosophy())
+Architecture:
+  - SaaS Systems
+  - AI Automation
+  - Cloud Deployment
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🖥️ AI Powered Development Setup
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="850"
+  />
+</p>
+
+<div align="center">
+
+### 💻 Designing • Coding • Building • Scaling
+
+</div>
+
+---
+
+# ⚡ Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind,threejs,typescript,javascript" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,aws,supabase,firebase" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,figma,git,github,vscode,linux" />
+
+</div>
+
+---
+
+# 🤖 AI Development Philosophy
+
+```javascript
+const developer = {
+  
+  mindset: "Build futuristic applications",
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Three.js",
+    "Modern Animation"
+  ],
+
+  backend: [
+    "Node.js",
+    "Django",
+    "Laravel",
+    "Scalable APIs"
+  ],
+
+  ai: [
+    "AI Automation",
+    "LLM Integration",
+    "AI SaaS Platforms",
+    "Smart Systems"
+  ],
+
+  design: [
+    "3D Interfaces",
+    "Minimal UI",
+    "Modern Motion",
+    "Responsive UX"
+  ],
+
+  mission: "Create intelligent digital experiences"
+};
 ```
 
 ---
 
-## 🤖 AI & Python Developer
+# 📊 GitHub Analytics
 
-- 🧠 Passionate about Artificial Intelligence and scalable backend systems  
-- ⚡ Experienced in Python, Django, FastAPI, Node.js, and AI integration  
-- 🚀 Building modern SaaS platforms, automation tools, and intelligent applications  
-- 🎨 Creating futuristic UI/UX with animation and 3D web experiences  
-- 🔥 Always learning new technologies and improving development workflows  
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌌 Development Vision
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> “Transforming ideas into intelligent digital experiences with AI and modern technologies.”
+</div>
 
 ---
 
-## ⚙️ Core Technologies
+# 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,tensorflow,pytorch,nodejs,react,nextjs,docker,aws" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com">
+  <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:38bdf8,50:2563eb,100:020617&section=footer" width="100%" />
 </p>
